@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Pablo Suárez",
+    "occupation":"Ingeniero de Sistemas y Computación",
+    "description":"Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software",
+    "image":"profilepic.jpg",
+    "bio":"¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy en mi noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
+    "contactmessage":"¡Contáctame! Todos mis canales están abiertos a comentarios, ofertas, sugerencias, etc.",
+    "email": "pabloasuarezm@hotmail.com\npabloasuarezm@gmail.com",
+    "phone": "(+57) 300-880-1016",
+    "address":{
+      "street":"Calle 127D #19-93",
+      "city":"Bogotá",
+      "state":"D.C.",
+      "zip": "110121"
+    },
+    "website": "https://pa-suarezm.github.io",
+    "resumedownload":"https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
+  },
+  "resume":{
+    "skillmessage":"En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño de UI/UX no es mi fuerte, siempre puedo aportar ideas y feedback en mi experiencia personal.",
+    "education":[
+      {
+        "school":"Universidad de los Andes - Carrera",
+        "degree":"Ingeniería de Sistemas y Computación",
+        "graduated":"Octubre 2021",
+        "description":"Ha sido la mejor experiencia de mi vida. Aparte de conocimiento técnico y teórico en sistemas y computación, he aprendido a relacionarme mejor con mis compañeros de trabajo, así como mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
+      },
+      {
+        "school":"Universidad de los Andes - Certificado",
+        "degree":"Desarrollo de videojuegos en Unity",
+        "graduated":"Julio 2020",
+        "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección de Proyectos) y profundizó mi interés en el desarrollo de videojuegos."
+      }
+    ],
+    "work":[
+      {
+        "company":"Universidad de los Andes",
+        "title":"Monitor",
+        "years":"Semestres 2017-2, 2018-1, 2020-1, 2020-2",
+        "description":"Asistí a los profesores Christian Aparicio (2017 y 2018) y Carlos Navarrete (2020-1) en un curso de programación orientada por objetos (dictado en Java) calificando exámenes parciales, ejercicios y ayudando a alrededor de 25 estudiantes a resolver dudas y problemas durante las sesiones prácticas. Además, asistí a los profesores Mario Linares y Anamaría Mojica (2020-2) en un curso de desarrollo de aplicaciones móviles (donde brindé apoyo en la programación en Kotlin para Android) calificando entregas y ayudando a alrededor de 70 estudiantes a resolver dudas y problemas durante mis horarios de atención."  
+      },
+      {
+        "company": "Universidad de los Andes",
+        "title": "Tutor de álgebra y cálculo",
+        "years": "Semestres 2018-2, 2019-1, 2019-2",
+        "description": "Asistí a estudiantes con dudas y problemas sobre cálculo diferencial, integral y vectorial, y álgebra lineal en el centro de apoyo de ciencias de la universidad durante sesiones que podían ser personales, grupales (de hasta 5 estudiantes), o como una clase completa de 30 a 40 estudiantes."
+      },
+      {
+        "company": "Universidad de los Andes",
+        "title": "Tutor de programación",
+        "years": "Semestre 2019-1",
+        "description": "Asistí a estudiantes con dudas y problemas sobre programación orientada a objetos en Java y cómo plantear algoritmos suficientes y eficientes que resuelvan dichos problemas durante sesiones personales de 30 minutos a una hora."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"HTML/CSS, Bootstrap, ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Unity/C#",
+        "level":"60%"
+      },
+      {
+        "name":"Kotlin",
+        "level":"65%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"PostgreSQL, MongoDB",
+        "level":"70%"
+      },
+      {
+        "name": "UI",
+        "level": "30%"
+      },
+      {
+        "name": "UX",
+        "level": "45%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Boom Away",
+        "category":"Proyecto de grado. Hicimos un videojuego aplicando técnicas de desarrollo ágil de software.",
+        "image":"boom-away.png",
+        "url":"https://boomawayinc.itch.io/"
+      },
+      {
+        "title":"Easy Demographics",
+        "category":"Proyecto de mitad carrera. Usamos AI para dar estadísticas sobre las personas visibles en un video dado.",
+        "image":"easy-demographics.png",
+        "url":"https://github.com/AfLosada/EasyDemographics"
+      },
+      {
+        "title":"Limbs",
+        "category":"El primer videojuego que desarrollé. Fue mi respuesta al GMTK Game Jam 2019 con un tiempo de desarrollo de menos de 48 horas.",
+        "image":"limbs.png",
+        "url":"https://pa-suarezm.itch.io/limbs"
+      },
+      {
+        "title":"Personal Website",
+        "category":"Página web personal hecha en React. Tomé la plantilla creada por Tim Baker y ajusté el código a mi gusto sin comprometer el diseño original.",
+        "image":"personal-website.png",
+        "url":"https://pa-suarezm-github.io"
+      },
+      {
+        "title":"Secret Santa",
+        "category":"Aplicación en Java para asignarle a miembros de una familia una pareja para jugar Amigo Secreto y notificar por correo electrónico.",
+        "image":"secret-santa.png",
+        "url":"https://github.com/pa-suarezm/SecretSanta.git"
+      }
+    ]
+  }
+}
