@@ -5,7 +5,7 @@
     "description":"Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software",
     "image":"profilepic.jpg",
     "bio":"¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy en mi noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"¡Contáctame! Todos mis canales están abiertos a comentarios, ofertas, sugerencias, etc.",
     "email": "pabloasuarezm@hotmail.com\npabloasuarezm@gmail.com",
     "phone": "(+57) 300-880-1016",
     "address":{
@@ -18,7 +18,7 @@
     "resumedownload":"https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
   },
   "resume":{
-    "skillmessage":"En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño no es mi fuerte, siempre puedo aportar ideas y feedback a los procesos de diseño de UI/UX",
+    "skillmessage":"En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño de UI/UX no es mi fuerte, siempre puedo aportar ideas y feedback en mi experiencia personal.",
     "education":[
       {
         "school":"Universidad de los Andes - Carrera",
