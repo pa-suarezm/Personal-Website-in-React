@@ -4,7 +4,7 @@
     "occupation":"Ingeniero de Sistemas y Computación",
     "description":"Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy en mi noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "pabloasuarezm@hotmail.com\npabloasuarezm@gmail.com",
     "phone": "(+57) 300-880-1016",
@@ -15,66 +15,80 @@
       "zip": "110121"
     },
     "website": "https://pa-suarezm.github.io",
-    "resumedownload":"http://timbakerdev.com"
+    "resumedownload":"https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño no es mi fuerte, siempre puedo aportar ideas y feedback a los procesos de diseño de UI/UX",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad de los Andes - Carrera",
+        "degree":"Ingeniería de Sistemas y Computación",
+        "graduated":"Octubre 2021",
+        "description":"Ha sido la mejor experiencia de mi vida. Aparte de conocimiento técnico y teórico en sistemas y computación, he aprendido a relacionarme mejor con mis compañeros de trabajo, así como mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad de los Andes - Certificado",
+        "degree":"Desarrollo de videojuegos en Unity",
+        "graduated":"Julio 2020",
+        "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección de Proyectos) y profundizó mi interés en el desarrollo de videojuegos."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Universidad de los Andes",
+        "title":"Monitor",
+        "years":"Semestres 2017-2, 2018-1, 2020-1, 2020-2",
+        "description":"Asistí a los profesores Christian Aparicio (2017 y 2018) y Carlos Navarrete (2020-1) en un curso de programación orientada por objetos (dictado en Java) calificando exámenes parciales, ejercicios y ayudando a alrededor de 25 estudiantes a resolver dudas y problemas durante las sesiones prácticas. Además, asistí a los profesores Mario Linares y Anamaría Mojica (2020-2) en un curso de desarrollo de aplicaciones móviles (donde brindé apoyo en la programación en Kotlin para Android) calificando entregas y ayudando a alrededor de 70 estudiantes a resolver dudas y problemas durante mis horarios de atención."  
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Universidad de los Andes",
+        "title": "Tutor de álgebra y cálculo",
+        "years": "Semestres 2018-2, 2019-1, 2019-2",
+        "description": "Asistí a estudiantes con dudas y problemas sobre cálculo diferencial, integral y vectorial, y álgebra lineal en el centro de apoyo de ciencias de la universidad durante sesiones que podían ser personales, grupales (de hasta 5 estudiantes), o como una clase completa de 30 a 40 estudiantes."
+      },
+      {
+        "company": "Universidad de los Andes",
+        "title": "Tutor de programación",
+        "years": "Semestre 2019-1",
+        "description": "Asistí a estudiantes con dudas y problemas sobre programación orientada a objetos en Java y cómo plantear algoritmos suficientes y eficientes que resuelvan dichos problemas durante sesiones personales de 30 minutos a una hora."
       }
     ],
     "skills":[
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"HTML/CSS, Bootstrap, ReactJs",
+        "level":"80%"
+      },
       {
         "name":"Git",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
+        "name":"Unity/C#",
+        "level":"60%"
+      },
+      {
+        "name":"Kotlin",
+        "level":"65%"
+      },
+      {
+        "name":"Python",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"PostgreSQL, MongoDB",
+        "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "UI",
+        "level": "30%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "UX",
+        "level": "45%"
       }
     ]
   },

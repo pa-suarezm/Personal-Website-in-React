@@ -227,7 +227,7 @@ ul#nav li.current a { color: #F06000; }
    background: #fff;
    color: #2B2B2B;
 }
-#about .download .button i {
+#download-icon {
    margin-right: 15px;
    font-size: 20px;
 }
