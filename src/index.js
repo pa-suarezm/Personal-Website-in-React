@@ -8,10 +8,11 @@ import * as serviceWorker from './serviceWorker';
 import App from './App.js';
 
 let choose = () => {
-    if(navigator.language === "es")
+    if(navigator.language.startsWith("es"))
         return localeEsMessages;
     else
         return localeEnMessages;
+    
 }
 
 ReactDOM.render(
