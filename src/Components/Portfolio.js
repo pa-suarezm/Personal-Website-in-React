@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
+import { faLink } from '@fortawesome/free-solid-svg-icons';
+
 class Portfolio extends Component {
   render() {
 
@@ -9,14 +13,13 @@ class Portfolio extends Component {
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
-               <img alt={projects.title} src={projectImage} max-width="975" max-height="800"/>
-               <div className="overlay">
-                  <div className="portfolio-item-meta">
-                 <h5>{projects.title}</h5>
-                     <p>{projects.category}</p>
-                  </div>
+              <img alt={projects.title} src={projectImage} max-width="975" max-height="800"/>
+              <div className="overlay">
+                <div className="portfolio-item-meta">                  
+                  <h5><FontAwesomeIcon icon = {faLink}/> {projects.title}</h5>
+                  <p>{projects.category}</p>
                 </div>
-              <div className="link-icon"><i className="fa fa-link"></i></div>
+              </div>
             </a>
           </div>
         </div>

@@ -4,8 +4,8 @@
     "occupation":"Ingeniero de Sistemas y Computación",
     "description":"Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software",
     "image":"profilepic.jpg",
-    "bio":"¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy en mi noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
-    "contactmessage":"¡Contáctame! Todos mis canales están abiertos a comentarios, ofertas, sugerencias, etc.",
+    "bio":"¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy cursando noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
+    "contactmessage":"¡Contáctame! Todos mis canales están abiertos a preguntas, ofertas, comentarios, etc. Puedes usar este formulario para enviarme un correo electrónico o contactarme por cualquiera de los enlaces que están al final de la página o al principio debajo de mi nombre.",
     "email": "pabloasuarezm@hotmail.com\npabloasuarezm@gmail.com",
     "phone": "(+57) 300-880-1016",
     "address":{
@@ -59,12 +59,16 @@
         "level":"85%"
       },
       {
-        "name":"HTML/CSS, Bootstrap, ReactJs",
-        "level":"80%"
+        "name":"HTML/CSS, Bootstrap",
+        "level":"83%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
       },
       {
         "name":"Git",
-        "level":"60%"
+        "level":"65%"
       },
       {
         "name":"Unity/C#",
@@ -79,16 +83,13 @@
         "level":"55%"
       },
       {
-        "name":"PostgreSQL, MongoDB",
+        "name": "UI/UX",
+        "level": "40%"
+        
+      },
+      {
+        "name":"Firebase, AWS, Heroku",
         "level":"70%"
-      },
-      {
-        "name": "UI",
-        "level": "30%"
-      },
-      {
-        "name": "UX",
-        "level": "45%"
       }
     ]
   },
@@ -116,13 +117,19 @@
         "title":"Personal Website",
         "category":"Página web personal hecha en React. Tomé la plantilla creada por Tim Baker y ajusté el código a mi gusto sin comprometer el diseño original.",
         "image":"personal-website.png",
-        "url":"https://pa-suarezm-github.io"
+        "url":"https://github.com/pa-suarezm/Personal-Website-in-React"
       },
       {
         "title":"Secret Santa",
         "category":"Aplicación en Java para asignarle a miembros de una familia una pareja para jugar Amigo Secreto y notificar por correo electrónico.",
         "image":"secret-santa.png",
         "url":"https://github.com/pa-suarezm/SecretSanta.git"
+      },
+      {
+        "title": "LUCI",
+        "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domiciolios de los vendedores de la plaza de verduras de Codabas.",
+        "image": "luci.png",
+        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       }
     ]
   }
