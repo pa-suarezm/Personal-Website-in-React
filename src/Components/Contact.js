@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
-import { faEnvelope } from '@fortawesome/free-regular-svg-icons';
-
 class Contact extends Component {
   render() {
 
@@ -24,7 +20,7 @@ class Contact extends Component {
          <div className="row section-head">
 
             <div className="two columns header-col">
-               <h1><span><FontAwesomeIcon icon = {faEnvelope}/> Contacto</span></h1>
+               <h1><span>Contacto</span></h1>
             </div>
             
             <div className="ten columns">
