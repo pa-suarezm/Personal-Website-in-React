@@ -12,6 +12,8 @@ import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import { faWindows } from '@fortawesome/free-brands-svg-icons';
 import { faGoogle } from '@fortawesome/free-brands-svg-icons';
 
+import { FormattedMessage } from 'react-intl';
+
 class Header extends Component {
   render() {
 
@@ -20,11 +22,6 @@ class Header extends Component {
       var occupation= this.props.data.occupation;
       var description= this.props.data.description;
       var city= this.props.data.address.city;
-      /*var networks= this.props.data.social.map(function(network){
-         return <li key={network.name}><a href={network.url}><FontAwesomeIcon icon={network.className} /></a></li>
-      })*/
-        /*return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })*/
       var networks = 
       [
          <li key="linkedin"><a href="https://www.linkedin.com/in/pablo-andres-suarez/"><FontAwesomeIcon icon = {faLinkedinIn} /></a></li>,
@@ -44,23 +41,23 @@ class Header extends Component {
 
       <nav id="nav-wrap">
 
-         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
-	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
+         <a className="mobile-btn" href="#nav-wrap"><FormattedMessage id="ShowNav" /></a>
+	      <a className="mobile-btn" href="#home"><FormattedMessage id="HideNav" /></a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Inicio</a></li>
-            <li><a className="smoothscroll" href="#about">Sobre mí</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Proyectos</a></li>
-            <li><a className="smoothscroll" href="#contact">Contacto</a></li>
+            <li className="current"><a className="smoothscroll" href="#home"><FormattedMessage id="Home" /></a></li>
+            <li><a className="smoothscroll" href="#about"><FormattedMessage id="About" /></a></li>
+	         <li><a className="smoothscroll" href="#resume"><FormattedMessage id="Resume" /></a></li>
+            <li><a className="smoothscroll" href="#portfolio"><FormattedMessage id="Projects" /></a></li>
+            <li><a className="smoothscroll" href="#contact"><FormattedMessage id="Contact" /></a></li>
          </ul>
 
       </nav>
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">{name}</h1>
-            <h3>Soy un <span>{occupation}</span> de {city}. {description}.</h3>
+            <h1 className="responsive-headline"><FormattedMessage id="Name" /></h1>
+            <h3><FormattedMessage id="HeaderDesc1" /><span><FormattedMessage id="Occupation" /></span><FormattedMessage id="HeaderDesc2" /><FormattedMessage id="City" />. <FormattedMessage id="HeaderDesc3" /></h3>
             <hr />
             <ul className="social">
                {networks}
