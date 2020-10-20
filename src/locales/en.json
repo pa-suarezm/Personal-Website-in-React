@@ -4,7 +4,7 @@
     "Home": "Home",
     "About": "About",
     "Resume": "Resume",
-    "Projects": "Projects",
+    "Projects": "Portfolio",
     "Contact": "Contact",
     "Name": "Pablo Suarez",
     "HeaderDesc1": "I'm a ",
@@ -22,5 +22,7 @@
     "Education": "Education",
     "Work": "Work",
     "Skills": "Skills",
-    "SkillMsg": "In general, I shine the most when it comes to Software Development. Moreover, despite the fact that UI/UX Design isn't my strong suit, I'm still capable of contributing and giving feedback on this matter from my personal experience."
+    "SkillMsg": "In general, I shine the most when it comes to Software Development. Moreover, despite the fact that UI/UX Design isn't my strong suit, I'm still capable of contributing and giving feedback on this matter from my personal experience.",
+
+    "ProjectsMsg": "Some of my previous work"
 }

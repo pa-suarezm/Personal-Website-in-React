@@ -127,7 +127,7 @@
     ]
   },
   "portfolio":{
-    "projects": [
+    "projectsEs": [
       {
         "title":"Boom Away",
         "category":"Proyecto de grado. Hicimos un videojuego aplicando técnicas de desarrollo ágil de software.",
@@ -161,6 +161,44 @@
       {
         "title": "LUCI",
         "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domiciolios de los vendedores de la plaza de verduras de Codabas.",
+        "image": "luci.png",
+        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
+      }
+    ],
+    "projectsEn": [
+      {
+        "title":"Boom Away",
+        "category":"Graduation project. We made a videogame using Agile Software Development techniques.",
+        "image":"boom-away.png",
+        "url":"https://boomawayinc.itch.io/"
+      },
+      {
+        "title":"Easy Demographics",
+        "category":"Mid-career project. Our team used AI to give users statistics regarding people visible in a given video.",
+        "image":"easy-demographics.png",
+        "url":"https://github.com/AfLosada/EasyDemographics"
+      },
+      {
+        "title":"Limbs",
+        "category":"The first videogame I developed. It was my submission to the GTMK Game Jam 2019 with a development time of under 48 hours.",
+        "image":"limbs.png",
+        "url":"https://pa-suarezm.itch.io/limbs"
+      },
+      {
+        "title":"Personal Website",
+        "category":"Website made using React. I took the templated designed by Tim Baker and adjusted the code as I saw fit without compromising the original design.",
+        "image":"personal-website.png",
+        "url":"https://github.com/pa-suarezm/Personal-Website-in-React"
+      },
+      {
+        "title":"Secret Santa",
+        "category":"Java desktop application made for a game of Secret Santa in order to assign and notify the pairs via e-mail.",
+        "image":"secret-santa.png",
+        "url":"https://github.com/pa-suarezm/SecretSanta.git"
+      },
+      {
+        "title": "LUCI",
+        "category": "Native Android app connected to Firebase. It was made to provide support for the registration and delivery of products sold at the Codabas market.",
         "image": "luci.png",
         "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       }

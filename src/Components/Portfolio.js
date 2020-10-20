@@ -1,14 +1,35 @@
 import React, { Component } from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
 import { faLink } from '@fortawesome/free-solid-svg-icons';
 
+import { FormattedMessage } from 'react-intl';
+
 class Portfolio extends Component {
+
+  constructor(props)
+  {
+    super(props);
+  }
+
+  chooseProjects()
+  {
+    var locale = String(this.props.locale);
+
+    if(locale.startsWith("es"))
+    {
+      return this.props.data.projectsEs;
+    }
+    else
+    {
+      return this.props.data.projectsEn;
+    }
+  }
+
   render() {
 
     if(this.props.data){
-      var projects = this.props.data.projects.map(function(projects){
+      var projects = this.chooseProjects().map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
@@ -33,7 +54,7 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Algunos de mis proyectos</h1>
+            <h1><FormattedMessage id="ProjectsMsg" /></h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
