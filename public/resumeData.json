@@ -18,10 +18,9 @@
     "resumedownload":"https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
   },
   "resume":{
-    "skillmessage":"En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño de UI/UX no es mi fuerte, siempre puedo aportar ideas y feedback en mi experiencia personal.",
-    "education":[
+    "educationEs":[
       {
-        "school":"Universidad de los Andes - Carrera",
+        "school":"Universidad de los Andes - Pregrado",
         "degree":"Ingeniería de Sistemas y Computación",
         "graduated":"Octubre 2021",
         "description":"Ha sido la mejor experiencia de mi vida. Aparte de conocimiento técnico y teórico en sistemas y computación, he aprendido a relacionarme mejor con mis compañeros de trabajo, así como mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
@@ -30,10 +29,24 @@
         "school":"Universidad de los Andes - Certificado",
         "degree":"Desarrollo de videojuegos en Unity",
         "graduated":"Julio 2020",
-        "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección de Proyectos) y profundizó mi interés en el desarrollo de videojuegos."
+        "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección 'Proyectos') y profundizó mi interés en el desarrollo de videojuegos."
       }
     ],
-    "work":[
+    "educationEn":[
+      {
+        "school":"University of the Andes - Undergraduate degree",
+        "degree":"Systems and Computational Engineering",
+        "graduated":"October 2021",
+        "description":"So far, this has been the best experience of my life. Not only have I been able to gather technical and theoretical knowledge and experience in systems and computation, but I've also learnt how to better work with my teammates and how to better communicate (both in writting and speaking) in Spanish and English."
+      },
+      {
+        "school":"University of the Andes - Certificate",
+        "degree":"Videogame Development in Unity",
+        "graduated":"July 2020",
+        "description":"This course was my first experience using the Unity game engine. It was crucial to get my graduation project done (see the 'Projects' section) and further established Videogame Development as a passion for me."
+      }
+    ],
+    "workEs":[
       {
         "company":"Universidad de los Andes",
         "title":"Monitor",
@@ -51,6 +64,26 @@
         "title": "Tutor de programación",
         "years": "Semestre 2019-1",
         "description": "Asistí a estudiantes con dudas y problemas sobre programación orientada a objetos en Java y cómo plantear algoritmos suficientes y eficientes que resuelvan dichos problemas durante sesiones personales de 30 minutos a una hora."
+      }
+    ],
+    "workEn":[
+      {
+        "company":"University of the Andes",
+        "title":"Teaching Assistant",
+        "years":"Semesters 2017-2, 2018-1, 2020-1, 2020-2",
+        "description":"Assisted professors Christian Aparacio (2017 and 2018) and Carlos Navarrete (2020-1) in an Object-Oriented Programming course (in Java) by grading midterms and projects, and helping more or less 25 students (per semester) by answering their questions during practical sessions. I also assited professors Mario Linares and Anamaria Mojica (2020-2) in a Mobile App Development course (particularly with Kotlin programming for Android) by grading deliverables and exams, and helping nearly 70 students by answering their questions during my weekly office hours."
+      },
+      {
+        "company": "University of the Andes",
+        "title": "Algebra and Calculus Tutor",
+        "years": "Semesters 2018-2, 2019-1, 2019-2",
+        "description": "Assisted students with questions and problems regarding differential, integral and vector calculus and linear algebra in the university’s science help center during one-on-one sessions, group sessions of around 4 students, or a whole class of 30 to 40 students."
+      },
+      {
+        "company": "University of the Andes",
+        "title": "Programming Tutor",
+        "years": "Semester 2019-1",
+        "description": "Assisted students with questions and problems regarding object-oriented programming in Java and how to design complete and efficient algorithms to solve them during one-on-one sessions ranging from 30 minutes to an hour."
       }
     ],
     "skills":[

@@ -17,5 +17,10 @@
     "Address": "Calle 127D #19-93",
     "State": "D.C.",
     "Zip": "110121",
-    "DownloadCV": "Descargar resume"
+    "DownloadCV": "Descargar resume",
+
+    "Education": "Educación",
+    "Work": "Laboral",
+    "Skills": "Habilidades",
+    "SkillMsg": "En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño de UI/UX no es mi fuerte, siempre puedo aportar ideas y retroalimentación desde mi experiencia personal."
 }
