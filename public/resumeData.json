@@ -1,19 +1,8 @@
 {
   "main": {
-    "name":"Pablo Suárez",
-    "occupation":"Ingeniero de Sistemas y Computación",
-    "description":"Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software",
     "image":"profilepic.jpg",
-    "bio":"¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy cursando noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
-    "contactmessage":"¡Contáctame! Todos mis canales están abiertos a preguntas, ofertas, comentarios, etc. Puedes usar este formulario para enviarme un correo electrónico o contactarme por cualquiera de los enlaces que están al final de la página o al principio debajo de mi nombre.",
     "email": "pabloasuarezm@hotmail.com\npabloasuarezm@gmail.com",
     "phone": "(+57) 300-880-1016",
-    "address":{
-      "street":"Calle 127D #19-93",
-      "city":"Bogotá",
-      "state":"D.C.",
-      "zip": "110121"
-    },
     "website": "https://pa-suarezm.github.io",
     "resumedownload":"https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
   },
@@ -141,6 +130,12 @@
         "url":"https://github.com/AfLosada/EasyDemographics"
       },
       {
+        "title": "LUCI",
+        "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domiciolios de los vendedores de la plaza de verduras de Codabas.",
+        "image": "luci.png",
+        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
+      },
+      {
         "title":"Limbs",
         "category":"El primer videojuego que desarrollé. Fue mi respuesta al GMTK Game Jam 2019 con un tiempo de desarrollo de menos de 48 horas.",
         "image":"limbs.png",
@@ -157,12 +152,6 @@
         "category":"Aplicación en Java para asignarle a miembros de una familia una pareja para jugar Amigo Secreto y notificar por correo electrónico.",
         "image":"secret-santa.png",
         "url":"https://github.com/pa-suarezm/SecretSanta.git"
-      },
-      {
-        "title": "LUCI",
-        "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domiciolios de los vendedores de la plaza de verduras de Codabas.",
-        "image": "luci.png",
-        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       }
     ],
     "projectsEn": [
@@ -177,6 +166,12 @@
         "category":"Mid-career project. Our team used AI to give users statistics regarding people visible in a given video.",
         "image":"easy-demographics.png",
         "url":"https://github.com/AfLosada/EasyDemographics"
+      },
+      {
+        "title": "LUCI",
+        "category": "Native Android app connected to Firebase. It was made to provide support for the registration and delivery of products sold at the Codabas market.",
+        "image": "luci.png",
+        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       },
       {
         "title":"Limbs",
@@ -195,12 +190,6 @@
         "category":"Java desktop application made for a game of Secret Santa in order to assign and notify the pairs via e-mail.",
         "image":"secret-santa.png",
         "url":"https://github.com/pa-suarezm/SecretSanta.git"
-      },
-      {
-        "title": "LUCI",
-        "category": "Native Android app connected to Firebase. It was made to provide support for the registration and delivery of products sold at the Codabas market.",
-        "image": "luci.png",
-        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       }
     ]
   }

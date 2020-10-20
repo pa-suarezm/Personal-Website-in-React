@@ -13,7 +13,7 @@
     "City": "Bogota",
     "HeaderDesc3": "Passionate about Videogame Programming, and Software Design and Development.",
 
-    "Bio": "Hi! My name is Pablo Suarez, I'm 22 years-old, and right now I'm on my fifth year at the University of the Andes with Systems and Computational Engineering as my major. My strong suit and my biggest passion is software design and development, and although my skills are oriented towards the back-end more than the front-end, I'm deeply interested in both. Also, I love videogame development and I hope to eventually make a career out of it.",
+    "Bio": "Hi! My name is Pablo Suarez, I'm 22 years-old, and right now I'm on my fifth year at the University of the Andes with Systems and Computational Engineering as my major. My strong suit and my biggest passion is software design and development, and although my skills are oriented towards the back-end more than the front-end, I'm deeply interested in both. I also love videogame development and I hope to eventually make a career out of it.",
     "Address": "Calle 127D #19-93",
     "State": "D.C.",
     "Zip": "110121",
@@ -24,5 +24,13 @@
     "Skills": "Skills",
     "SkillMsg": "In general, I shine the most when it comes to Software Development. Moreover, despite the fact that UI/UX Design isn't my strong suit, I'm still capable of contributing and giving feedback on this matter from my personal experience.",
 
-    "ProjectsMsg": "Some of my previous work"
+    "ProjectsMsg": "Some of my previous projects",
+
+    "ContactMsg": "Contact me! All my socials are open to offers, questions, comments, etc. You can use this form ton send an email or contact me directly through any of the links in this website's footer or in the header below my name.",
+    "FormName": "Name ",
+    "FormSubject": "Subject",
+    "FormMsg": "Message ",
+    "FormSend": "Send",
+    "FormSuccess": "Your message has been sent. Thank you!",
+    "ContactInfoMsg": "Address, email, and phone number"
 }

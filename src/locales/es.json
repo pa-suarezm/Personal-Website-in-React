@@ -24,5 +24,13 @@
     "Skills": "Habilidades",
     "SkillMsg": "En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño de UI/UX no es mi fuerte, siempre puedo aportar ideas y retroalimentación desde mi experiencia personal.",
 
-    "ProjectsMsg": "Algunos de mis proyectos"
+    "ProjectsMsg": "Algunos de mis proyectos",
+
+    "ContactMsg": "¡Contáctame! Todos mis canales están abiertos a preguntas, ofertas, comentarios, etc. Puedes usar este formulario para enviarme un correo electrónico o contactarme por cualquiera de los enlaces que están al final de la página o al principio debajo de mi nombre.",
+    "FormName": "Nombre ",
+    "FormSubject": "Asunto",
+    "FormMsg": "Mensaje ",
+    "FormSend": "Enviar",
+    "FormSuccess": "Se envió el mensaje. ¡Gracias!",
+    "ContactInfoMsg": "Dirección, correo, y teléfono"
 }
