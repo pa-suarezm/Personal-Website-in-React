@@ -13,5 +13,9 @@
     "City": "Bogota",
     "HeaderDesc3": "Passionate about Videogame Programming, and Software Design and Development.",
 
-    "": ""
+    "Bio": "Hi! My name is Pablo Suarez, I'm 22 years-old, and right now I'm on my fifth year at the University of the Andes with Systems and Computational Engineering as my major. My strong suit and my biggest passion is software design and development, and although my skills are oriented towards the back-end more than the front-end, I'm deeply interested in both. Also, I love videogame development and I hope to eventually make a career out of it.",
+    "Address": "Calle 127D #19-93",
+    "State": "D.C.",
+    "Zip": "110121",
+    "DownloadCV": "Download Resume"
 }
