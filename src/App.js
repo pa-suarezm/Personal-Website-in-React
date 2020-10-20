@@ -45,12 +45,12 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Contact data={this.state.resumeData.main}/>
-        <Footer data={this.state.resumeData.main}/>
+        <Header data={this.state.resumeData.main} locale={this.props.locale}/>
+        <About data={this.state.resumeData.main} locale={this.props.locale}/>
+        <Resume data={this.state.resumeData.resume} locale={this.props.locale}/>
+        <Portfolio data={this.state.resumeData.portfolio} locale={this.props.locale}/>
+        <Contact data={this.state.resumeData.main} locale={this.props.locale}/>
+        <Footer data={this.state.resumeData.main} locale={this.props.locale}/>
       </div>
     );
   }

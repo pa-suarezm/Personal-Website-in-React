@@ -1,0 +1,36 @@
+{
+    "ShowNav": "Mostrar navegación",
+    "HideNav": "Ocultar navegación",
+    "Home": "Inicio",
+    "About": "Sobre mí",
+    "Resume": "Resume",
+    "Projects": "Proyectos",
+    "Contact": "Contacto",
+    "Name": "Pablo Suárez",
+    "HeaderDesc1": "Soy un ",
+    "Occupation": "Ingeniero de Sistemas y Computación",
+    "HeaderDesc2": " de ",
+    "City": "Bogotá",
+    "HeaderDesc3": "Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software.",
+
+    "Bio": "¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy cursando noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
+    "Address": "Calle 127D #19-93",
+    "State": "D.C.",
+    "Zip": "110121",
+    "DownloadCV": "Descargar resume",
+
+    "Education": "Educación",
+    "Work": "Laboral",
+    "Skills": "Habilidades",
+    "SkillMsg": "En general, se me da bien la parte de desarrollo de software. Además, a pesar de que el diseño de UI/UX no es mi fuerte, siempre puedo aportar ideas y retroalimentación desde mi experiencia personal.",
+
+    "ProjectsMsg": "Algunos de mis proyectos",
+
+    "ContactMsg": "¡Contáctame! Todos mis canales están abiertos a preguntas, ofertas, comentarios, etc. Puedes usar este formulario para enviarme un correo electrónico o contactarme por cualquiera de los enlaces que están al final de la página o al principio debajo de mi nombre.",
+    "FormName": "Nombre ",
+    "FormSubject": "Asunto",
+    "FormMsg": "Mensaje ",
+    "FormSend": "Enviar",
+    "FormSuccess": "Se envió el mensaje. ¡Gracias!",
+    "ContactInfoMsg": "Dirección, correo, y teléfono"
+}
