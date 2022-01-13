@@ -11,9 +11,9 @@
     "Occupation": "Systems and Computational Engineer",
     "HeaderDesc2": " from ",
     "City": "Bogota",
-    "HeaderDesc3": "Passionate about Videogame Programming, and Software Design and Development.",
+    "HeaderDesc3": "Passionate about Game Development, and Software Design and Development.",
 
-    "Bio": "Hi! My name is Pablo Suarez, I'm 22 years-old, and right now I'm on my fifth year at the University of the Andes with Systems and Computational Engineering as my major. My strong suit and my biggest passion is software design and development, and although my skills are oriented towards the back-end more than the front-end, I'm deeply interested in both. I also love videogame development and I hope to eventually make a career out of it.",
+    "Bio": "Hi! My name is Pablo Suarez, I'm 24 years-old, and right now I'm working as a SemiSenior Fullstack Developer at Imagine Apps. My strong suit and my biggest passion is software design and development, and although my skills are oriented towards the front-end more than the back-end, I'm deeply interested in both. I also love game development and I hope to eventually make a career out of it.",
     "Address": "Calle 127D #19-93",
     "State": "D.C.",
     "Zip": "110121",
@@ -22,11 +22,11 @@
     "Education": "Education",
     "Work": "Work",
     "Skills": "Skills",
-    "SkillMsg": "In general, I shine the most when it comes to Software Development. Moreover, despite the fact that UI/UX Design isn't my strong suit, I'm still capable of contributing and giving feedback on this matter from my personal experience.",
+    "SkillMsg": "In general, I shine the most when it comes to Software Development. Despite the fact that UI/UX Design isn't my strong suit, I'm still capable of contributing and giving feedback on this matter from my personal experience.",
 
     "ProjectsMsg": "Some of my previous projects",
 
-    "ContactMsg": "Contact me! All my socials are open to offers, questions, comments, etc. You can use this form ton send an email or contact me directly through any of the links in this website's footer or in the header below my name.",
+    "ContactMsg": "Contact me! All my socials are open to offers, questions, comments, etc. You can use this form to send me an email or contact me directly through any of the links in this website's footer or in the header below my name.",
     "FormName": "Name ",
     "FormSubject": "Subject",
     "FormMsg": "Message ",

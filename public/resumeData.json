@@ -12,7 +12,7 @@
         "school":"Universidad de los Andes - Pregrado",
         "degree":"Ingeniería de Sistemas y Computación",
         "graduated":"Octubre 2021",
-        "description":"Ha sido la mejor experiencia de mi vida. Aparte de conocimiento técnico y teórico en sistemas y computación, he aprendido a relacionarme mejor con mis compañeros de trabajo, así como mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
+        "description":"Fue la mejor experiencia de mi vida. Aparte de conocimiento técnico y teórico en sistemas y computación, aprendí a relacionarme mejor con mis compañeros de trabajo, así como a mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
       },
       {
         "school":"Universidad de los Andes - Certificado",
@@ -26,7 +26,7 @@
         "school":"University of the Andes - Undergraduate degree",
         "degree":"Systems and Computational Engineering",
         "graduated":"October 2021",
-        "description":"So far, this has been the best experience of my life. Not only have I been able to gather technical and theoretical knowledge and experience in systems and computation, but I've also learnt how to better work with my teammates and how to better communicate (both in writting and speaking) in Spanish and English."
+        "description":"This was the best experience of my life. Not only was I able to gather technical and theoretical knowledge and experience in systems and computation, but I also learned how to better work with my teammates and to improve my communication skills (both in writting and speaking) in Spanish and English."
       },
       {
         "school":"University of the Andes - Certificate",
@@ -77,24 +77,37 @@
     ],
     "skills":[
       {
-        "name":"Java",
+        "name":"HTML/CSS, Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"AngularJS",
         "level":"85%"
       },
       {
-        "name":"HTML/CSS, Bootstrap",
-        "level":"83%"
+        "name": "ReactJS",
+        "level": "75%"
       },
       {
-        "name": "ReactJS",
+        "name": "TypeScript/JavaScript",
         "level": "80%"
       },
       {
         "name":"Git",
-        "level":"65%"
+        "level":"70%"
+      },
+      {
+        "name":"Firebase, AWS, Heroku",
+        "level":"70%"
       },
       {
         "name":"Unity/C#",
         "level":"60%"
+      },
+      {
+        "name": "UI/UX",
+        "level": "40%"
+        
       },
       {
         "name":"Kotlin",
@@ -105,18 +118,25 @@
         "level":"55%"
       },
       {
-        "name": "UI/UX",
-        "level": "40%"
-        
-      },
-      {
-        "name":"Firebase, AWS, Heroku",
-        "level":"70%"
+        "name":"Java",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projectsEs": [
+      {
+        "title": "Feat",
+        "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
+        "image": "feat.png",
+        "url": "https://feat-web.herokuapp.com/home"
+      },
+      {
+        "title":"Simulador de consultas",
+        "category":"Videojuego serio para que estudiantes de medicina practiquen consultas con pacientes virtuales programados por sus profesores.",
+        "image": "simulador-de-consultas.png",
+        "url": "https://youtu.be/3C3CkQcVXH0"
+      },
       {
         "title":"Boom Away",
         "category":"Proyecto de grado. Hicimos un videojuego aplicando técnicas de desarrollo ágil de software.",
@@ -131,7 +151,7 @@
       },
       {
         "title": "LUCI",
-        "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domiciolios de los vendedores de la plaza de verduras de Codabas.",
+        "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domicilios de los vendedores de la plaza de verduras de Codabas.",
         "image": "luci.png",
         "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       },
@@ -152,15 +172,21 @@
         "category":"Aplicación en Java para asignarle a miembros de una familia una pareja para jugar Amigo Secreto y notificar por correo electrónico.",
         "image":"secret-santa.png",
         "url":"https://github.com/pa-suarezm/SecretSanta.git"
-      },
-      {
-        "title": "LUCI",
-        "category": "Aplicación nativa de Android conectada a Firebase hecha para apoyar el registro y distribución de domiciolios de los vendedores de la plaza de verduras de Codabas.",
-        "image": "luci.png",
-        "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       }
     ],
     "projectsEn": [
+      {
+        "title": "Feat",
+        "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
+        "image": "feat.png",
+        "url": "https://feat-web.herokuapp.com/home"
+      },
+      {
+        "title":"Consultation Simulator",
+        "category":"Serious game made so that medicine students could practice consultations with virtual patients programmed by their teachers.",
+        "image":"simulador-de-consultas.png",
+        "url":"https://youtu.be/3C3CkQcVXH0"
+      },
       {
         "title":"Boom Away",
         "category":"Graduation project. We made a videogame using Agile Software Development techniques.",

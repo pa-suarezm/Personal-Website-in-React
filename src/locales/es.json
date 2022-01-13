@@ -13,7 +13,7 @@
     "City": "Bogotá",
     "HeaderDesc3": "Apasionado por el desarrollo de videojuegos, y por el diseño y desarrollo de software.",
 
-    "Bio": "¡Hola! Me llamo Pablo Suárez, tengo 22 años, y actualmente estoy cursando noveno semestre de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Mi fuerte, mi interés, y mi pasión es el diseño y desarollo de software; aunque el desarrollo en back end se me da mejor que en el front end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
+    "Bio": "¡Hola! Me llamo Pablo Suárez, tengo 24 años, y actualmente estoy trabajando como Desarrollador Fullstack SemiSenior en Imagine Apps. Mi fuerte, mi interés, y mi pasión es el diseño y desarrollo de software; aunque el desarrollo en front-end se me da mejor que en el back-end, ambos me interesan profundamente. Además, me encanta el desarrollo de videojuegos, y espero algún día alinear mi carrera con este aspecto de mí.",
     "Address": "Calle 127D #19-93",
     "State": "D.C.",
     "Zip": "110121",
@@ -26,7 +26,7 @@
 
     "ProjectsMsg": "Algunos de mis proyectos",
 
-    "ContactMsg": "¡Contáctame! Todos mis canales están abiertos a preguntas, ofertas, comentarios, etc. Puedes usar este formulario para enviarme un correo electrónico o contactarme por cualquiera de los enlaces que están al final de la página o al principio debajo de mi nombre.",
+    "ContactMsg": "¡Contáctame! Todos mis canales están abiertos a preguntas, ofertas, comentarios, etc. Puedes usar este formulario para enviarme un correo electrónico o escribirme por cualquiera de los enlaces que están al final de la página o al principio debajo de mi nombre.",
     "FormName": "Nombre ",
     "FormSubject": "Asunto",
     "FormMsg": "Mensaje ",
