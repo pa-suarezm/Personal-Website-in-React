@@ -129,7 +129,7 @@
         "title": "Feat",
         "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
         "image": "feat.png",
-        "url": "https://feat-web.herokuapp.com/home"
+        "url": ""
       },
       {
         "title":"Simulador de consultas",
@@ -179,7 +179,7 @@
         "title": "Feat",
         "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
         "image": "feat.png",
-        "url": "https://feat-web.herokuapp.com/home"
+        "url": ""
       },
       {
         "title":"Consultation Simulator",
