@@ -11,9 +11,9 @@
     "Occupation": "Systems and Computational Engineer",
     "HeaderDesc2": " from ",
     "City": "Bogota",
-    "HeaderDesc3": "Passionate about Game Development, and Software Design and Development.",
+    "HeaderDesc3": "Passionate about Game and Web Development.",
 
-    "Bio": "Hi! My name is Pablo Suarez, I'm 24 years-old, and right now I'm working as a SemiSenior Fullstack Developer at Imagine Apps. My strong suit and my biggest passion is software design and development, and although my skills are oriented towards the front-end more than the back-end, I'm deeply interested in both. I also love game development and I hope to eventually make a career out of it.",
+    "Bio": "Hi! My name is Pablo Suarez, I'm 24 years-old, and right now I'm working as a Backend Unity Developer at BW Studios. I have experience mostly in web development in Angular and Node, and game development in Unity. I'm currently also working on some videogames side projects that will soon be available on the Google Play Store!",
     "Address": "Calle 127D #19-93",
     "State": "D.C.",
     "Zip": "110121",
@@ -22,11 +22,11 @@
     "Education": "Education",
     "Work": "Work",
     "Skills": "Skills",
-    "SkillMsg": "In general, I shine the most when it comes to Software Development. Despite the fact that UI/UX Design isn't my strong suit, I'm still capable of contributing and giving feedback on this matter from my personal experience.",
+    "SkillMsg": "In general, I shine the most when it comes to solving complex engineering and programming challenges. I can confidently describe myself as a fast-learner, a team-player, always hungry for knowledge, and always willing and eager to help others whenever and however I can. In terms of technologies I've worked with, these are the most relevant to the career I'm pursuing and my own experience working in games and web:",
 
     "ProjectsMsg": "Some of my previous projects",
 
-    "ContactMsg": "Contact me! All my socials are open to offers, questions, comments, etc. You can use this form to send me an email or contact me directly through any of the links in this website's footer or in the header below my name.",
+    "ContactMsg": "Contact me! I'm always open to offers, questions, comments, etc. You can use this form to send me an email or contact me directly through any of the links in this website's footer or in the header below my name.",
     "FormName": "Name ",
     "FormSubject": "Subject",
     "FormMsg": "Message ",

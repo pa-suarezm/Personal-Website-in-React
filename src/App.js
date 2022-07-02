@@ -42,6 +42,7 @@ class App extends Component {
     this.getResumeData();
   }
 
+  //<Contact data={this.state.resumeData.main} locale={this.props.locale}/>
   render() {
     return (
       <div className="App">
@@ -49,7 +50,6 @@ class App extends Component {
         <About data={this.state.resumeData.main} locale={this.props.locale}/>
         <Resume data={this.state.resumeData.resume} locale={this.props.locale}/>
         <Portfolio data={this.state.resumeData.portfolio} locale={this.props.locale}/>
-        <Contact data={this.state.resumeData.main} locale={this.props.locale}/>
         <Footer data={this.state.resumeData.main} locale={this.props.locale}/>
       </div>
     );

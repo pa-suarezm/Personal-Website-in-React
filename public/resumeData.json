@@ -19,6 +19,12 @@
         "degree":"Desarrollo de videojuegos en Unity",
         "graduated":"Julio 2020",
         "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección 'Proyectos') y profundizó mi interés en el desarrollo de videojuegos."
+      },
+      {
+        "school":"Ada School - Certificado",
+        "degree":"Pragmatic Technical Lead + React",
+        "graduated":"Octubre 2021",
+        "description":"Tomé este curso mientras trabajaba en Imagine Apps como Desarrollador Fullstack Junior con el fin de entrenarme para el siguiente cargo donde tuve responsabilidades de liderazgo de equipos y de liderazgo técnico como Desarrollador Fullstack Semisenior."
       }
     ],
     "educationEn":[
@@ -33,9 +39,33 @@
         "degree":"Videogame Development in Unity",
         "graduated":"July 2020",
         "description":"This course was my first experience using the Unity game engine. It was crucial to get my graduation project done (see the 'Projects' section) and further established Videogame Development as a passion for me."
+      },
+      {
+        "school":"Ada School - Certificate",
+        "degree":"Pragmatic Technical Lead + React",
+        "graduated":"October 2021",
+        "description":"I took this course while I was working at Imagine Apps as a Junior Fullstack Dev in order to prepare myself for my next role in the company (Ssr. Fullstack Dev) where I had responsabilities geared towards team and tech leadership."
       }
     ],
     "workEs":[
+      {
+        "company": "BW Studios",
+        "title": "Desarrollador Backend Unity",
+        "years": "Abril 2022 - actualidad",
+        "description": "Actualmente trabajo en el equipo encargado de las integraciones y requerimientos para Papumba. En este rol, he tenido que desarrollar nuevas funciones cloud desplegadas en Firebase, integrarlas y desarrollarlas en la app de Papumba desde Unity, y comunicar a nuestros clientes en Papumba sobre nuestros avances y negociar cuáles deben ser las siguientes funcionalidades a desarrollar y su fecha de entrega."
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Desarrollador Fullstack Semisenior",
+        "years": "Diciembre 2021 - Abril 2022",
+        "description": "Desarrollé, probé, ajusté diseños, e iteré sobre el proyecto Feat. En este cargo tuve un rol importante de liderazgo en mi equipo de desarrollo el cual se venía cultivando desde mi anterior cargo como Desarrollador Jr. También asistí, aconsejé, y guié a compañeros nuevos en la empresa para que así se familiarizaran con los procesos internos de desarrollo así como con dudas más técnicas de sus propios proyectos."
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Desarrollador Fullstack Junior",
+        "years": "Diciembre 2020 - Diciembre 2021",
+        "description": "Diseñé, desarrollé, probé, e iteré sobre el proyecto Simulador de consultas en conjunto con el departamento de medicina de la Universidad de Los Andes; estuve a cargo del diseño del sistema y su desarrollo completo desde el primer día. Este proyecto tiene un alcance de más de 800 estudiantes de pregrado y 250 profesores del departamento de medicina. Asimismo, diseñé, desarrollé, probé, e iteré sobre el proyecto Feat; uno de los proyectos de mayor complejidad en Imagine Apps en el cual fui asignado como desarrollador principal."
+      },
       {
         "company":"Universidad de los Andes",
         "title":"Monitor",
@@ -57,6 +87,24 @@
     ],
     "workEn":[
       {
+        "company": "BW Studios",
+        "title": "Backend Unity Developer",
+        "years": "April 2022 (current role)",
+        "description": "I'm currently working on a team dedicated to integrate new functionalities for Papumba. In this role, I've had to create new cloud functions and deploy them on Firebase, and also integrate and develop them within the app itself in Unity. I've also had to constantly communicate with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Ssr. Fullstack Developer",
+        "years": "December 2021 - April 2022",
+        "description": "Developed, tested, adjusted designs, and iterated over the Feat project. As a semi-senior dev. I had an important role as a leader within my development team. I also had a mentorship role in which I assisted, advised, and overall guided new coworkers to help them get familiar and comfortable in the company and with our development processes. Finally, this role had me supporting my coworkers with more technical aspects of their own projects by helping them understand what’s expected of them and how to best approach their tasks."
+      },
+      {
+        "company": "Imagine Apps",
+        "title": "Jr. Fullstack Developer",
+        "years": "December 2020 - December 2021",
+        "description": "Designed, developed, tested, and iterated over the Consultation Simulator project in conjunction with the University of the Andes’ Med School. I was in charge of the system’s design and its full development from day 1. This project has a reach of over 800 undergraduate students and 250 professors. Moreover, I designed, developed, tested, and iterated on the Feat project as lead developer; one of the biggest and most complex projects within Imagine Apps."
+      },
+      {
         "company":"University of the Andes",
         "title":"Teaching Assistant",
         "years":"Semesters 2017-2, 2018-1, 2020-1, 2020-2",
@@ -77,6 +125,18 @@
     ],
     "skills":[
       {
+        "name":"Unity/C#",
+        "level":"80%"
+      },
+      {
+        "name":"Unreal/Blueprint/C++",
+        "level":"25%"
+      },
+      {
+        "name":"Git",
+        "level":"85%"
+      },
+      {
         "name":"HTML/CSS, Bootstrap",
         "level":"90%"
       },
@@ -86,45 +146,31 @@
       },
       {
         "name": "ReactJS",
-        "level": "75%"
+        "level": "65%"
       },
       {
         "name": "TypeScript/JavaScript",
         "level": "80%"
       },
       {
-        "name":"Git",
-        "level":"70%"
-      },
-      {
         "name":"Firebase, AWS, Heroku",
-        "level":"70%"
-      },
-      {
-        "name":"Unity/C#",
-        "level":"60%"
+        "level":"75%"
       },
       {
         "name": "UI/UX",
-        "level": "40%"
+        "level": "50%"
         
-      },
-      {
-        "name":"Kotlin",
-        "level":"65%"
-      },
-      {
-        "name":"Python",
-        "level":"55%"
-      },
-      {
-        "name":"Java",
-        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projectsEs": [
+      {
+        "title": "Papumba",
+        "category": "App para iOS y Android hecha en Unity donde niños de 2 a 7 años gozan de juegos, libros, videos, y demás recursos que les permitan desarrollarse y aprender.",
+        "image": "papumba.png",
+        "url": "https://www.papumba.com/"
+      },
       {
         "title": "Feat",
         "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
@@ -139,7 +185,7 @@
       },
       {
         "title":"Boom Away",
-        "category":"Proyecto de grado. Hicimos un videojuego aplicando técnicas de desarrollo ágil de software.",
+        "category":"Proyecto de grado. Hicimos un videojuego en Unity aplicando técnicas de desarrollo ágil de software.",
         "image":"boom-away.png",
         "url":"https://boomawayinc.itch.io/"
       },
@@ -176,6 +222,12 @@
     ],
     "projectsEn": [
       {
+        "title": "Papumba",
+        "category": "App for iOS and Android made in Unity in which children between ages 2 and 7 can enjoy dozens of games, books, videos, and more while always learning something new.",
+        "image": "papumba.png",
+        "url": "https://www.papumba.com/"
+      },
+      {
         "title": "Feat",
         "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
         "image": "feat.png",
@@ -189,7 +241,7 @@
       },
       {
         "title":"Boom Away",
-        "category":"Graduation project. We made a videogame using Agile Software Development techniques.",
+        "category":"Graduation project. We made a videogame in Unity using Agile Software Development techniques.",
         "image":"boom-away.png",
         "url":"https://boomawayinc.itch.io/"
       },
