@@ -90,7 +90,7 @@
         "company": "BW Studios",
         "title": "Backend Unity Developer",
         "years": "April 2022 (current role)",
-        "description": "I'm currently working on a team dedicated to integrate new functionalities for Papumba. In this role, I've had to create new cloud functions and deploy them on Firebase, and also integrate and develop them within the app itself in Unity. I've also had to constantly communicate with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
+        "description": "I'm currently working on a team dedicated to integrating new functionalities for Papumba. In this role, I've had to create new cloud functions and deploy them on Firebase, and also integrate and develop them within the app itself in Unity. I've also had to constantly communicate with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
       },
       {
         "company": "Imagine Apps",
@@ -170,6 +170,12 @@
   "portfolio":{
     "projectsEs": [
       {
+        "title": "Asteroids",
+        "category": "Juego hipercasual de arcade hecho en Unity. ¡Ya disponible en la Google Play Store! El jugador controla la nave inclinando el teléfono y tocando la pantalla para disparar.",
+        "image": "asteroids.png",
+        "url": "https://play.google.com/store/apps/details?id=com.pulguita_games.asteroids"
+      },
+      {
         "title": "Papumba",
         "category": "App para iOS y Android hecha en Unity donde niños de 2 a 7 años gozan de juegos, libros, videos, y demás recursos que les permitan desarrollarse y aprender.",
         "image": "papumba.png",
@@ -225,6 +231,12 @@
       }
     ],
     "projectsEn": [
+      {
+        "title": "Asteroids",
+        "category": "Hypercasual arcade game made in Unity, now available on the Google Play Store! The player controls their ship by tilting their phone and shoots by tapping the screen.",
+        "image": "asteroids.png",
+        "url": "https://play.google.com/store/apps/details?id=com.pulguita_games.asteroids"
+      },
       {
         "title": "Papumba",
         "category": "App for iOS and Android made in Unity in which children between ages 2 and 7 can enjoy dozens of games, books, videos, and more while always learning something new.",
