@@ -24,7 +24,7 @@
         "school": "Universidad de los Andes - Certificado",
         "degree": "Diseño de videojuegos",
         "graduated": "Julio 2022",
-        "description": "En este curso aprendí los fundamentos del diseño de videojuegos y pude poner en práctica mis conocimientos planteando diseñós, documentándolos en documentos de diseño, y prototipándolos."
+        "description": "En este curso aprendí los fundamentos del diseño de videojuegos y pude poner en práctica mis conocimientos planteando diseñós, documentándolos en documentos de diseño, y prototipándolos en Unity."
       },
       {
         "school":"Ada School - Certificado",
@@ -48,9 +48,9 @@
       },
       {
         "school": "Universidad de los Andes - Certificate",
-        "degree": "Diseño de videojuegos",
-        "graduated": "Julio 2022",
-        "description": "En este curso aprendí los fundamentos del diseño de videojuegos y pude poner en práctica mis conocimientos planteando diseñós, documentándolos en documentos de diseño, y prototipándolos."
+        "degree": "Videogame Design",
+        "graduated": "July 2022",
+        "description": "In this course I was able to learn the fundamentals of game design while applying this knowledge by designing my own games from scratch, documenting these designs in multiple GDD's, and prototyping them in Unity as a proof of concept."
       },
       {
         "school":"Ada School - Certificate",
