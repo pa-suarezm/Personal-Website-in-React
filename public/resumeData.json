@@ -21,6 +21,12 @@
         "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección 'Proyectos') y profundizó mi interés en el desarrollo de videojuegos."
       },
       {
+        "school": "Universidad de los Andes - Certificado",
+        "degree": "Diseño de videojuegos",
+        "graduated": "Julio 2022",
+        "description": "En este curso aprendí los fundamentos del diseño de videojuegos y pude poner en práctica mis conocimientos planteando diseñós, documentándolos en documentos de diseño, y prototipándolos."
+      },
+      {
         "school":"Ada School - Certificado",
         "degree":"Pragmatic Technical Lead + React",
         "graduated":"Octubre 2021",
@@ -29,16 +35,22 @@
     ],
     "educationEn":[
       {
-        "school":"University of the Andes - Undergraduate degree",
+        "school":"Universidad de los Andes - Undergraduate degree",
         "degree":"Systems and Computational Engineering",
         "graduated":"October 2021",
         "description":"This was the best experience of my life. Not only was I able to gather technical and theoretical knowledge and experience in systems and computation, but I also learned how to better work with my teammates and to improve my communication skills (both in writting and speaking) in Spanish and English."
       },
       {
-        "school":"University of the Andes - Certificate",
+        "school":"Universidad de los Andes - Certificate",
         "degree":"Videogame Development in Unity",
         "graduated":"July 2020",
         "description":"This course was my first experience using the Unity game engine. It was crucial to get my graduation project done (see the 'Projects' section) and further established Videogame Development as a passion for me."
+      },
+      {
+        "school": "Universidad de los Andes - Certificate",
+        "degree": "Diseño de videojuegos",
+        "graduated": "Julio 2022",
+        "description": "En este curso aprendí los fundamentos del diseño de videojuegos y pude poner en práctica mis conocimientos planteando diseñós, documentándolos en documentos de diseño, y prototipándolos."
       },
       {
         "school":"Ada School - Certificate",
@@ -105,19 +117,19 @@
         "description": "Designed, developed, tested, and iterated over the Consultation Simulator project in conjunction with the University of the Andes’ Med School. I was in charge of the system’s design and its full development from day 1. This project has a reach of over 800 undergraduate students and 250 professors. Moreover, I designed, developed, tested, and iterated on the Feat project as lead developer; one of the biggest and most complex projects within Imagine Apps."
       },
       {
-        "company":"University of the Andes",
+        "company":"Universidad de los Andes",
         "title":"Teaching Assistant",
         "years":"Semesters 2017-2, 2018-1, 2020-1, 2020-2",
         "description":"Assisted professors Christian Aparacio (2017 and 2018) and Carlos Navarrete (2020-1) in an Object-Oriented Programming course (in Java) by grading midterms and projects, and helping more or less 25 students (per semester) by answering their questions during practical sessions. I also assited professors Mario Linares and Anamaria Mojica (2020-2) in a Mobile App Development course (particularly with Kotlin programming for Android) by grading deliverables and exams, and helping nearly 70 students by answering their questions during my weekly office hours."
       },
       {
-        "company": "University of the Andes",
+        "company": "Universidad de los Andes",
         "title": "Algebra and Calculus Tutor",
         "years": "Semesters 2018-2, 2019-1, 2019-2",
         "description": "Assisted students with questions and problems regarding differential, integral and vector calculus and linear algebra in the university’s science help center during one-on-one sessions, group sessions of around 4 students, or a whole class of 30 to 40 students."
       },
       {
-        "company": "University of the Andes",
+        "company": "Universidad de los Andes",
         "title": "Programming Tutor",
         "years": "Semester 2019-1",
         "description": "Assisted students with questions and problems regarding object-oriented programming in Java and how to design complete and efficient algorithms to solve them during one-on-one sessions ranging from 30 minutes to an hour."
@@ -170,6 +182,12 @@
   "portfolio":{
     "projectsEs": [
       {
+        "title": "BuffZ and NerfZ",
+        "category": "Twin-stick arcade zombie shooter hecho en Unity, pronto disponible en Steam y la Google Play Store. Cada pocos segundos el juegador o sus enemigos son fortalecidos o debilitados.",
+        "image": "buffz-and-nerfz.png",
+        "url": "https://pa-suarezm.itch.io/buffz-and-nerfz"
+      },
+      {
         "title": "Asteroids",
         "category": "Juego hipercasual de arcade hecho en Unity. ¡Ya disponible en la Google Play Store! El jugador controla la nave inclinando el teléfono y tocando la pantalla para disparar.",
         "image": "asteroids.png",
@@ -185,7 +203,7 @@
         "title": "Feat",
         "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
         "image": "feat.png",
-        "url": ""
+        "url": "https://www.instagram.com/feat.b4b/"
       },
       {
         "title":"Simulador de consultas",
@@ -232,6 +250,12 @@
     ],
     "projectsEn": [
       {
+        "title": "BuffZ and NerfZ",
+        "category": "Twin-stick arcade zombie shooter made in Unity, soon to be available on Steam and the Google Play Store. Every couple of seconds either the player or their enemies get buffed or nerfed.",
+        "image": "buffz-and-nerfz.png",
+        "url": "https://pa-suarezm.itch.io/buffz-and-nerfz"
+      },
+      {
         "title": "Asteroids",
         "category": "Hypercasual arcade game made in Unity, now available on the Google Play Store! The player controls their ship by tilting their phone and shoots by tapping the screen.",
         "image": "asteroids.png",
@@ -247,7 +271,7 @@
         "title": "Feat",
         "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
         "image": "feat.png",
-        "url": ""
+        "url": "https://www.instagram.com/feat.b4b/"
       },
       {
         "title":"Consultation Simulator",
