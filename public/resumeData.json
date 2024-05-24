@@ -1,24 +1,24 @@
 {
   "main": {
-    "image":"profilepic.jpg",
+    "image": "profilepic.jpg",
     "email": "pabloasuarezm@hotmail.com\npabloasuarezm@gmail.com",
     "phone": "(+57) 300-880-1016",
     "website": "https://pa-suarezm.github.io",
-    "resumedownload":"https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
+    "resumedownload": "https://1drv.ms/u/s!Aimq6oYEzi1iq1RxVhtWrIKuo4lM?e=IwIYnF"
   },
-  "resume":{
-    "educationEs":[
+  "resume": {
+    "educationEs": [
       {
-        "school":"Universidad de los Andes - Pregrado",
-        "degree":"Ingeniería de Sistemas y Computación",
-        "graduated":"Octubre 2021",
-        "description":"Fue la mejor experiencia de mi vida. Aparte de conocimiento técnico y teórico en sistemas y computación, aprendí a relacionarme mejor con mis compañeros de trabajo, así como a mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
+        "school": "Universidad de los Andes - Pregrado",
+        "degree": "Ingeniería de Sistemas y Computación",
+        "graduated": "Octubre 2021",
+        "description": "Aparte de conocimiento técnico y teórico en sistemas y computación, aprendí a relacionarme mejor con mis compañeros de trabajo, así como a mejorar mis habilidades de comunicación oral y escrita tanto en español como en inglés."
       },
       {
-        "school":"Universidad de los Andes - Certificado",
-        "degree":"Desarrollo de videojuegos en Unity",
-        "graduated":"Julio 2020",
-        "description":"Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección 'Proyectos') y profundizó mi interés en el desarrollo de videojuegos."
+        "school": "Universidad de los Andes - Certificado",
+        "degree": "Desarrollo de videojuegos en Unity",
+        "graduated": "Julio 2020",
+        "description": "Este fue mi primer acercamiento a Unity como herramienta de creación de videojuegos. Este curso facilitó el desarrollo de mi proyecto de grado (ver la sección 'Proyectos') y profundizó mi interés en el desarrollo de videojuegos."
       },
       {
         "school": "Universidad de los Andes - Certificado",
@@ -27,24 +27,24 @@
         "description": "En este curso aprendí los fundamentos del diseño de videojuegos y pude poner en práctica mis conocimientos planteando diseñós, documentándolos en documentos de diseño, y prototipándolos en Unity."
       },
       {
-        "school":"Ada School - Certificado",
-        "degree":"Pragmatic Technical Lead + React",
-        "graduated":"Octubre 2021",
-        "description":"Tomé este curso mientras trabajaba en Imagine Apps como Desarrollador Fullstack Junior con el fin de entrenarme para el siguiente cargo donde tuve responsabilidades de liderazgo de equipos y de liderazgo técnico como Desarrollador Fullstack Semisenior."
+        "school": "Ada School - Certificado",
+        "degree": "Pragmatic Technical Lead + React",
+        "graduated": "Octubre 2021",
+        "description": "Tomé este curso mientras trabajaba en Imagine Apps como Desarrollador Fullstack Junior con el fin de entrenarme para el siguiente cargo donde tuve responsabilidades de liderazgo de equipos y de liderazgo técnico como Desarrollador Fullstack Semisenior."
       }
     ],
-    "educationEn":[
+    "educationEn": [
       {
-        "school":"Universidad de los Andes - Undergraduate degree",
-        "degree":"Systems and Computational Engineering",
-        "graduated":"October 2021",
-        "description":"This was the best experience of my life. Not only was I able to gather technical and theoretical knowledge and experience in systems and computation, but I also learned how to better work with my teammates and to improve my communication skills (both in writting and speaking) in Spanish and English."
+        "school": "Universidad de los Andes",
+        "degree": "BSc. Systems and Computing Engineering",
+        "graduated": "October 2021",
+        "description": "Not only was I able to gather technical and theoretical knowledge and experience in systems and computation, but I also learned how to better work with my teammates and to improve my communication skills (both in writting and speaking) in Spanish and English."
       },
       {
-        "school":"Universidad de los Andes - Certificate",
-        "degree":"Videogame Development in Unity",
-        "graduated":"July 2020",
-        "description":"This course was my first experience using the Unity game engine. It was crucial to get my graduation project done (see the 'Projects' section) and further established Videogame Development as a passion for me."
+        "school": "Universidad de los Andes - Certificate",
+        "degree": "Videogame Development in Unity",
+        "graduated": "July 2020",
+        "description": "This course was my first experience using the Unity game engine. It was crucial to get my graduation project done (see the 'Projects' section) and further established Videogame Development as a passion for me."
       },
       {
         "school": "Universidad de los Andes - Certificate",
@@ -53,18 +53,24 @@
         "description": "In this course I was able to learn the fundamentals of game design while applying this knowledge by designing my own games from scratch, documenting these designs in multiple GDD's, and prototyping them in Unity as a proof of concept."
       },
       {
-        "school":"Ada School - Certificate",
-        "degree":"Pragmatic Technical Lead + React",
-        "graduated":"October 2021",
-        "description":"I took this course while I was working at Imagine Apps as a Junior Fullstack Dev in order to prepare myself for my next role in the company (Ssr. Fullstack Dev) where I had responsabilities geared towards team and tech leadership."
+        "school": "Ada School - Certificate",
+        "degree": "Pragmatic Technical Lead + React",
+        "graduated": "October 2021",
+        "description": "I took this course while I was working at Imagine Apps as a Junior Fullstack Dev in order to prepare myself for my next role in the company (Ssr. Fullstack Dev) where I had responsabilities geared towards team and tech leadership."
       }
     ],
-    "workEs":[
+    "workEs": [
+      {
+        "company": "Endless Adventures Inc.",
+        "title": "Ingeniero de Software",
+        "years": "Septiembre 2022 - actualidad",
+        "description": "Trabajo en el equipo de ingeniería a cargo del desarrollo de nuestra herramienta de creación de videojuegos, Adventure Forge, hecha en Unity. Este desarrollo incluye exponer controles de cámara para los juegos de nuestros usuarios, mejoras de rendimiento y optimización de código, y preparar lo que será el demo para el Steam Next Fest 2024."
+      },
       {
         "company": "BW Studios",
         "title": "Desarrollador Backend Unity",
-        "years": "Abril 2022 - actualidad",
-        "description": "Actualmente trabajo en el equipo encargado de las integraciones y requerimientos para Papumba. En este rol, he tenido que desarrollar nuevas funciones cloud desplegadas en Firebase, integrarlas y desarrollarlas en la app de Papumba desde Unity, y comunicar a nuestros clientes en Papumba sobre nuestros avances y negociar cuáles deben ser las siguientes funcionalidades a desarrollar y su fecha de entrega."
+        "years": "Abril 2022 - Septiembre 2022",
+        "description": "Mi equipo estuvo encargado de las integraciones y requerimientos para Papumba. En este rol, desarrollé nuevas funciones Cloud desplegadas en Firebase, y las integré y desarrollé en la app de Papumba desde Unity, y comuniqué a nuestros clientes en Papumba sobre nuestros avances y negocié cuáles debían ser las siguientes funcionalidades a desarrollar y su fecha de entrega."
       },
       {
         "company": "Imagine Apps",
@@ -79,10 +85,10 @@
         "description": "Diseñé, desarrollé, probé, e iteré sobre el proyecto Simulador de consultas en conjunto con el departamento de medicina de la Universidad de Los Andes; estuve a cargo del diseño del sistema y su desarrollo completo desde el primer día. Este proyecto tiene un alcance de más de 800 estudiantes de pregrado y 250 profesores del departamento de medicina. Asimismo, diseñé, desarrollé, probé, e iteré sobre el proyecto Feat; uno de los proyectos de mayor complejidad en Imagine Apps en el cual fui asignado como desarrollador principal."
       },
       {
-        "company":"Universidad de los Andes",
-        "title":"Monitor",
-        "years":"Semestres 2017-2, 2018-1, 2020-1, 2020-2",
-        "description":"Asistí a los profesores Christian Aparicio (2017 y 2018) y Carlos Navarrete (2020-1) en un curso de programación orientada por objetos (dictado en Java) calificando exámenes parciales, ejercicios y ayudando a alrededor de 25 estudiantes a resolver dudas y problemas durante las sesiones prácticas. Además, asistí a los profesores Mario Linares y Anamaría Mojica (2020-2) en un curso de desarrollo de aplicaciones móviles (donde brindé apoyo en la programación en Kotlin para Android) calificando entregas y ayudando a alrededor de 70 estudiantes a resolver dudas y problemas durante mis horarios de atención."  
+        "company": "Universidad de los Andes",
+        "title": "Monitor",
+        "years": "Semestres 2017-2, 2018-1, 2020-1, 2020-2",
+        "description": "Asistí a los profesores Christian Aparicio (2017 y 2018) y Carlos Navarrete (2020-1) en un curso de programación orientada por objetos (dictado en Java) calificando exámenes parciales, ejercicios y ayudando a alrededor de 25 estudiantes a resolver dudas y problemas durante las sesiones prácticas. Además, asistí a los profesores Mario Linares y Anamaría Mojica (2020-2) en un curso de desarrollo de aplicaciones móviles (donde brindé apoyo en la programación en Kotlin para Android) calificando entregas y ayudando a alrededor de 70 estudiantes a resolver dudas y problemas durante mis horarios de atención."
       },
       {
         "company": "Universidad de los Andes",
@@ -97,12 +103,18 @@
         "description": "Asistí a estudiantes con dudas y problemas sobre programación orientada a objetos en Java y cómo plantear algoritmos suficientes y eficientes que resuelvan dichos problemas durante sesiones personales de 30 minutos a una hora."
       }
     ],
-    "workEn":[
+    "workEn": [
+      {
+        "company": "Endless Adventures Inc.",
+        "title": "Software Engineer",
+        "years": "September 2022 - Today",
+        "description": "I work in the engineering team in charge of the development of our video game creation tool, Adventure Forge, made in Unity. This development includes exposing camera controls for our user's games, performance improvements and optimization, and implementing the designed experience for the 2024 Steam Next Fest demo."
+      },
       {
         "company": "BW Studios",
         "title": "Backend Unity Developer",
-        "years": "April 2022 (current role)",
-        "description": "I'm currently working on a team dedicated to integrating new functionalities for Papumba. In this role, I've had to create new cloud functions and deploy them on Firebase, and also integrate and develop them within the app itself in Unity. I've also had to constantly communicate with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
+        "years": "April 2022 - September 2022",
+        "description": "My team was dedicated to integrating new functionalities for Papumba. In this role, I created new Cloud functions and deployed them to Firebase, and I also integrated and developed them within the app itself in Unity. I also communicated on a daily basis with our clients to chat about our progress and to reach a consensus regarding what functionalities will be done next."
       },
       {
         "company": "Imagine Apps",
@@ -117,10 +129,10 @@
         "description": "Designed, developed, tested, and iterated over the Consultation Simulator project in conjunction with the University of the Andes’ Med School. I was in charge of the system’s design and its full development from day 1. This project has a reach of over 800 undergraduate students and 250 professors. Moreover, I designed, developed, tested, and iterated on the Feat project as lead developer; one of the biggest and most complex projects within Imagine Apps."
       },
       {
-        "company":"Universidad de los Andes",
-        "title":"Teaching Assistant",
-        "years":"Semesters 2017-2, 2018-1, 2020-1, 2020-2",
-        "description":"Assisted professors Christian Aparacio (2017 and 2018) and Carlos Navarrete (2020-1) in an Object-Oriented Programming course (in Java) by grading midterms and projects, and helping more or less 25 students (per semester) by answering their questions during practical sessions. I also assited professors Mario Linares and Anamaria Mojica (2020-2) in a Mobile App Development course (particularly with Kotlin programming for Android) by grading deliverables and exams, and helping nearly 70 students by answering their questions during my weekly office hours."
+        "company": "Universidad de los Andes",
+        "title": "Teaching Assistant",
+        "years": "Semesters 2017-2, 2018-1, 2020-1, 2020-2",
+        "description": "Assisted professors Christian Aparacio (2017 and 2018) and Carlos Navarrete (2020-1) in an Object-Oriented Programming course (in Java) by grading midterms and projects, and helping more or less 25 students (per semester) by answering their questions during practical sessions. I also assited professors Mario Linares and Anamaria Mojica (2020-2) in a Mobile App Development course (particularly with Kotlin programming for Android) by grading deliverables and exams, and helping nearly 70 students by answering their questions during my weekly office hours."
       },
       {
         "company": "Universidad de los Andes",
@@ -135,30 +147,30 @@
         "description": "Assisted students with questions and problems regarding object-oriented programming in Java and how to design complete and efficient algorithms to solve them during one-on-one sessions ranging from 30 minutes to an hour."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Unity/C#",
-        "level":"80%"
+        "name": "Unity/C#",
+        "level": "95%"
       },
       {
-        "name":"Unreal/Blueprint/C++",
-        "level":"25%"
+        "name": "Unreal/Blueprint/C++",
+        "level": "20%"
       },
       {
         "name": "GameMaker Studio 2",
-        "level":"30%"
+        "level": "25%"
       },
       {
-        "name":"Git",
-        "level":"85%"
+        "name": "Git",
+        "level": "90%"
       },
       {
-        "name":"HTML/CSS, Bootstrap",
-        "level":"90%"
+        "name": "HTML/CSS, Bootstrap",
+        "level": "90%"
       },
       {
-        "name":"AngularJS",
-        "level":"85%"
+        "name": "AngularJS",
+        "level": "85%"
       },
       {
         "name": "ReactJS",
@@ -169,27 +181,32 @@
         "level": "80%"
       },
       {
-        "name":"Firebase, AWS, Heroku",
-        "level":"75%"
+        "name": "Firebase, AWS, Heroku",
+        "level": "75%"
       },
       {
         "name": "UI/UX",
         "level": "50%"
-        
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projectsEs": [
       {
-        "title": "BuffZ and NerfZ",
-        "category": "Twin-stick arcade zombie shooter hecho en Unity, pronto disponible en Steam y la Google Play Store. Cada pocos segundos el juegador o sus enemigos son fortalecidos o debilitados.",
+        "title": "Adventure Forge",
+        "category": "Plataforma de creación de juegos para crear experiencias narrativas: Elige tu propio camino, novelas visuales, e incluso RPGs isométricos completos - y todo esto sin código",
+        "image": "adventure-forge.png",
+        "url": "https://store.steampowered.com/app/2466590/Adventure_Forge/"
+      },
+      {
+        "title": "BuffZ",
+        "category": "Twin-stick zombie shooter hecho en Unity, disponible en itch.io (web y iOS), y en la Google Play Store. Cada pocos segundos el jugador o sus enemigos son fortalecidos o debilitados.",
         "image": "buffz-and-nerfz.png",
         "url": "https://pa-suarezm.itch.io/buffz-and-nerfz"
       },
       {
         "title": "Asteroids",
-        "category": "Juego hipercasual de arcade hecho en Unity. ¡Ya disponible en la Google Play Store! El jugador controla la nave inclinando el teléfono y tocando la pantalla para disparar.",
+        "category": "Juego hipercasual de arcade hecho en Unity, disponible en la Google Play Store. El jugador controla la nave inclinando el teléfono y tocando la pantalla para disparar.",
         "image": "asteroids.png",
         "url": "https://play.google.com/store/apps/details?id=com.pulguita_games.asteroids"
       },
@@ -200,28 +217,22 @@
         "url": "https://www.papumba.com/"
       },
       {
-        "title": "Feat",
-        "category": "Web que conecta establecimientos con distribuidores, y distribuidores con organizaciones de marcas y permite a las organizaciones realizar pedidos y gestionar su personal.",
-        "image": "feat.png",
-        "url": "https://www.instagram.com/feat.b4b/"
-      },
-      {
-        "title":"Simulador de consultas",
-        "category":"Videojuego serio para que estudiantes de medicina practiquen consultas con pacientes virtuales programados por sus profesores.",
+        "title": "Simulador de consultas",
+        "category": "Videojuego serio para que estudiantes de medicina practiquen consultas con pacientes virtuales programados por sus profesores.",
         "image": "simulador-de-consultas.png",
         "url": "https://youtu.be/3C3CkQcVXH0"
       },
       {
-        "title":"Boom Away",
-        "category":"Proyecto de grado. Hicimos un videojuego en Unity aplicando técnicas de desarrollo ágil de software.",
-        "image":"boom-away.png",
-        "url":"https://boomawayinc.itch.io/"
+        "title": "Boom Away",
+        "category": "Proyecto de grado. Hicimos un videojuego en Unity aplicando técnicas de desarrollo ágil de software.",
+        "image": "boom-away.png",
+        "url": "https://boomawayinc.itch.io/"
       },
       {
-        "title":"Easy Demographics",
-        "category":"Proyecto de mitad carrera. Usamos AI para dar estadísticas sobre las personas visibles en un video dado.",
-        "image":"easy-demographics.png",
-        "url":"https://github.com/AfLosada/EasyDemographics"
+        "title": "Easy Demographics",
+        "category": "Proyecto de mitad carrera. Usamos AI para dar estadísticas sobre las personas visibles en un video dado.",
+        "image": "easy-demographics.png",
+        "url": "https://github.com/AfLosada/EasyDemographics"
       },
       {
         "title": "LUCI",
@@ -230,34 +241,34 @@
         "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       },
       {
-        "title":"Limbs",
-        "category":"El primer videojuego que desarrollé. Fue mi respuesta al GMTK Game Jam 2019 con un tiempo de desarrollo de menos de 48 horas.",
-        "image":"limbs.png",
-        "url":"https://pa-suarezm.itch.io/limbs"
+        "title": "Limbs",
+        "category": "El primer videojuego que desarrollé. Fue mi respuesta al GMTK Game Jam 2019 con un tiempo de desarrollo de menos de 48 horas.",
+        "image": "limbs.png",
+        "url": "https://pa-suarezm.itch.io/limbs"
       },
       {
-        "title":"Personal Website",
-        "category":"Página web personal hecha en React. Tomé la plantilla creada por Tim Baker y ajusté el código a mi gusto sin comprometer el diseño original.",
-        "image":"personal-website.png",
-        "url":"https://github.com/pa-suarezm/Personal-Website-in-React"
-      },
-      {
-        "title":"Secret Santa",
-        "category":"Aplicación en Java para asignarle a miembros de una familia una pareja para jugar Amigo Secreto y notificar por correo electrónico.",
-        "image":"secret-santa.png",
-        "url":"https://github.com/pa-suarezm/SecretSanta.git"
+        "title": "Personal Website",
+        "category": "Página web personal hecha en React. Tomé la plantilla creada por Tim Baker y ajusté el código a mi gusto sin comprometer el diseño original.",
+        "image": "personal-website.png",
+        "url": "https://github.com/pa-suarezm/Personal-Website-in-React"
       }
     ],
     "projectsEn": [
       {
-        "title": "BuffZ and NerfZ",
-        "category": "Twin-stick arcade zombie shooter made in Unity, soon to be available on Steam and the Google Play Store. Every couple of seconds either the player or their enemies get buffed or nerfed.",
+        "title": "Adventure Forge",
+        "category": "Game creation platform to make your own narrative-rich games: Choose Your Own Path, Visual Novels, Hidden Object Games, and even full Isometric RPGs - all with no code required.",
+        "image": "adventure-forge.png",
+        "url": "https://store.steampowered.com/app/2466590/Adventure_Forge/"
+      },
+      {
+        "title": "BuffZ",
+        "category": "Twin-stick zombie shooter made in Unity, available on itch.io (Web and iOS) and on the Google Play Store. Every couple of seconds either the player or the enemies get buffed or nerfed.",
         "image": "buffz-and-nerfz.png",
         "url": "https://pa-suarezm.itch.io/buffz-and-nerfz"
       },
       {
         "title": "Asteroids",
-        "category": "Hypercasual arcade game made in Unity, now available on the Google Play Store! The player controls their ship by tilting their phone and shoots by tapping the screen.",
+        "category": "Hypercasual arcade game made in Unity, available on the Google Play Store. The player controls their ship by tilting their phone and shoots by tapping the screen.",
         "image": "asteroids.png",
         "url": "https://play.google.com/store/apps/details?id=com.pulguita_games.asteroids"
       },
@@ -268,28 +279,22 @@
         "url": "https://www.papumba.com/"
       },
       {
-        "title": "Feat",
-        "category": "Website that connects food establishments with distributors and brand organizations, and enables establishments to order products to distributors and to manage their personnel",
-        "image": "feat.png",
-        "url": "https://www.instagram.com/feat.b4b/"
+        "title": "Consultation Simulator",
+        "category": "Serious game made so that medicine students could practice consultations with virtual patients programmed by their teachers.",
+        "image": "simulador-de-consultas.png",
+        "url": "https://youtu.be/3C3CkQcVXH0"
       },
       {
-        "title":"Consultation Simulator",
-        "category":"Serious game made so that medicine students could practice consultations with virtual patients programmed by their teachers.",
-        "image":"simulador-de-consultas.png",
-        "url":"https://youtu.be/3C3CkQcVXH0"
+        "title": "Boom Away",
+        "category": "Graduation project. We made a videogame in Unity using Agile Software Development techniques.",
+        "image": "boom-away.png",
+        "url": "https://boomawayinc.itch.io/"
       },
       {
-        "title":"Boom Away",
-        "category":"Graduation project. We made a videogame in Unity using Agile Software Development techniques.",
-        "image":"boom-away.png",
-        "url":"https://boomawayinc.itch.io/"
-      },
-      {
-        "title":"Easy Demographics",
-        "category":"Mid-career project. Our team used AI to give users statistics regarding people visible in a given video.",
-        "image":"easy-demographics.png",
-        "url":"https://github.com/AfLosada/EasyDemographics"
+        "title": "Easy Demographics",
+        "category": "Mid-career project. Our team used AI to give users statistics regarding people visible in a given video.",
+        "image": "easy-demographics.png",
+        "url": "https://github.com/AfLosada/EasyDemographics"
       },
       {
         "title": "LUCI",
@@ -298,22 +303,16 @@
         "url": "https://gitlab.com/ISIS3510_202010_Team19/android-kotlin"
       },
       {
-        "title":"Limbs",
-        "category":"The first videogame I developed. It was my submission to the GTMK Game Jam 2019 with a development time of under 48 hours.",
-        "image":"limbs.png",
-        "url":"https://pa-suarezm.itch.io/limbs"
+        "title": "Limbs",
+        "category": "The first videogame I developed. It was my submission to the GTMK Game Jam 2019 with a development time of under 48 hours.",
+        "image": "limbs.png",
+        "url": "https://pa-suarezm.itch.io/limbs"
       },
       {
-        "title":"Personal Website",
-        "category":"Website made using React. I took the templated designed by Tim Baker and adjusted the code as I saw fit without compromising the original design.",
-        "image":"personal-website.png",
-        "url":"https://github.com/pa-suarezm/Personal-Website-in-React"
-      },
-      {
-        "title":"Secret Santa",
-        "category":"Java desktop application made for a game of Secret Santa in order to assign and notify the pairs via e-mail.",
-        "image":"secret-santa.png",
-        "url":"https://github.com/pa-suarezm/SecretSanta.git"
+        "title": "Personal Website",
+        "category": "Website made using React. I took the templated designed by Tim Baker and adjusted the code as I saw fit without compromising the original design.",
+        "image": "personal-website.png",
+        "url": "https://github.com/pa-suarezm/Personal-Website-in-React"
       }
     ]
   }
