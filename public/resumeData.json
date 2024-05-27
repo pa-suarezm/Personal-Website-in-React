@@ -194,9 +194,15 @@
     "projectsEs": [
       {
         "title": "Adventure Forge",
-        "category": "Plataforma de creación de juegos para crear experiencias narrativas: Elige tu propio camino, novelas visuales, e incluso RPGs isométricos completos - y todo esto sin código",
+        "category": "Plataforma de creación de juegos para crear experiencias narrativas: Elige tu propio camino, novelas visuales, e incluso RPGs isométricos completos - y todo esto sin código.",
         "image": "adventure-forge.png",
         "url": "https://store.steampowered.com/app/2466590/Adventure_Forge/"
+      },
+      {
+        "title": "Shards",
+        "category": "(En desarrollo) Juego de terror experimental donde los enemigos solo son visibles en el espejo que el jugador carga a un lado.",
+        "image": "shards.png",
+        "url": "https://www.twitter.com/pulguitagames/status/1640089492957609990"
       },
       {
         "title": "BuffZ",
@@ -259,6 +265,12 @@
         "category": "Game creation platform to make your own narrative-rich games: Choose Your Own Path, Visual Novels, Hidden Object Games, and even full Isometric RPGs - all with no code required.",
         "image": "adventure-forge.png",
         "url": "https://store.steampowered.com/app/2466590/Adventure_Forge/"
+      },
+      {
+        "title": "Shards",
+        "category": "(Work in progress) Experimental horror game where the monsters that stalk the player are only visible in the mirror.",
+        "image": "shards.png",
+        "url": "https://www.twitter.com/pulguitagames/status/1640089492957609990"
       },
       {
         "title": "BuffZ",
