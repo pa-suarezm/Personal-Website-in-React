@@ -193,6 +193,12 @@
   "portfolio": {
     "projectsEs": [
       {
+        "title": "VR Supermarket",
+        "category": "Supermercado creado en realidad virtual para Meta Quest 2 con el fin de recopilar datos para un estudio de mercado sobre detergentes sostenibles.",
+        "image": "vr-supermarket.png",
+        "url": "https://github.com/pa-suarezm/VR-Supermarket"
+      },
+      {
         "title": "Adventure Forge",
         "category": "Plataforma de creación de juegos para crear experiencias narrativas: Elige tu propio camino, novelas visuales, e incluso RPGs isométricos completos - y todo esto sin código.",
         "image": "adventure-forge.png",
@@ -260,6 +266,12 @@
       }
     ],
     "projectsEn": [
+      {
+        "title": "VR Supermarket",
+        "category": "VR Supermarket created for Meta Quest 2 to gather data for a market study on eco-friendly detergents.",
+        "image": "vr-supermarket.png",
+        "url": "https://github.com/pa-suarezm/VR-Supermarket"
+      },
       {
         "title": "Adventure Forge",
         "category": "Game creation platform to make your own narrative-rich games: Choose Your Own Path, Visual Novels, Hidden Object Games, and even full Isometric RPGs - all with no code required.",
